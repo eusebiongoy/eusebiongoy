@@ -1,15 +1,23 @@
-Hi, I'm Eusebio Ngoy Banza 👋
+👋 Hi, I'm Eusebio Ngoy Banza
 Software Development Student | BYU–Idaho | Aspiring Software Developer
 
 Welcome to my GitHub profile!
 
-I'm a Software Development student at Brigham Young University–Idaho, passionate about programming, technology, and solving real-world problems through software development.
+I am a Software Development student at Brigham Young University–Idaho, passionate about programming, technology, and solving real-world problems through software development.
 
-I have a professional background in electrical installation, maintenance, workplace health and safety, and computer operations. I am now combining this technical experience with my growing knowledge of software development.
+I have a professional background in electrical installation and maintenance, workplace health and safety, and computer operations. I am now combining my technical experience with my growing knowledge of software development to build useful applications and develop innovative solutions.
 
 🎓 Education
-Bachelor of Science in Software Development – Brigham Young University–Idaho (In Progress)
-Diploma in Commercial Studies – ITC Kamweneja
+
+Brigham Young University–Idaho
+
+Bachelor of Science in Software Development
+2026 – Present (In Progress)
+
+ITC Kamweneja
+
+Diploma in Commercial Studies
+1996 – 2002
 💻 Skills and Technologies
 
 Programming Languages
@@ -21,8 +29,8 @@ C#
 
 Frontend Development
 
-HTML
-CSS
+HTML5
+CSS3
 React
 Next.js
 
@@ -34,43 +42,70 @@ MongoDB
 SQL
 REST APIs
 
-Tools
+Development Tools
 
 Git
 GitHub
 Swagger
 Microsoft Word
+
+Professional Skills
+
+Problem-Solving
+Technical Troubleshooting
+Electrical Installation and Maintenance
+Workplace Health and Safety (HSE)
+Teamwork and Communication
 🚀 Featured Projects
-1. StudySync API
+1. StudySync API – Student Academic Management System
 
-Student Academic Management System API built with Node.js, Express, MongoDB, JavaScript, and Swagger.
+A student academic management system API built using Node.js, Express.js, MongoDB, JavaScript, and Swagger.
 
-View Repository
+Technologies: JavaScript, Node.js, Express.js, MongoDB, Swagger
 
-2. Library API
+🔗 View StudySync API Repository
 
-REST API for managing books and library members.
+2. Library API – Library Management System
 
-View Repository
+A REST API for managing books and library members.
+
+Technology: JavaScript
+
+🔗 View Library API Repository
 
 3. Next.js Dashboard
 
-A dashboard application developed using TypeScript and Next.js.
+A dashboard application developed using modern web development technologies.
 
-View Repository
+Technologies: TypeScript, Next.js
+
+🔗 View Next.js Dashboard
 
 4. React Todo List
 
-A task management application built with React and JavaScript.
+A task management application developed using React and JavaScript.
 
-View Repository
+Technologies: JavaScript, React
 
-5. CSE 212 Projects
+🔗 View React Todo List
 
-Programming coursework focused on data structures using C#.
+5. CSE 212 – Programming with Data Structures
 
-View Repository
+Programming coursework focused on data structures and problem-solving using C#.
 
+Technology: C#
+
+🔗 View CSE 212 Projects
+
+Additional Coursework
+CSE 341 Projects
+CSE 341 Team Project
+CSE 340 Coursework
+CSE 210 Assignments
+WDD 330
+WDD 231
+WDD 131
+WDD 130
 📊 GitHub Statistics
 
 !GitHub Stats
@@ -78,108 +113,20 @@ View Repository
 !Top Languages
 
 🌍 Languages
-French
-English
-Swahili
-Lingala
-📫 Connect With Me
-LinkedIn: Eusebio Ngoy Banza
-GitHub: @eusebiongoy
-Email: banzaeusebio2@gmail.com
-🎯 My Goal
+French – Fluent
+English – Fluent
+Swahili – Fluent
+Lingala – Fluent
 
-My goal is to become a skilled software developer, build useful applications, contribute to meaningful projects, and continue growing in the technology industry.
+📫 CONNECT WITH ME
 
-Always learning, building, and improving! 🚀Hi, I'm Eusebio Ngoy Banza 👋
-Software Development Student | BYU–Idaho | Aspiring Software Developer
+🌐 LinkedIn Profile:
+https://www.linkedin.com/in/eusebiongoy1982/
 
-Welcome to my GitHub profile!
+💻 GitHub Profile:
+https://github.com/eusebiongoy
 
-I'm a Software Development student at Brigham Young University–Idaho, passionate about programming, technology, and solving real-world problems through software development.
+📧 Email:
+banzaeusebio2@gmail.com
 
-I have a professional background in electrical installation, maintenance, workplace health and safety, and computer operations. I am now combining this technical experience with my growing knowledge of software development.
-
-🎓 Education
-Bachelor of Science in Software Development – Brigham Young University–Idaho (In Progress)
-Diploma in Commercial Studies – ITC Kamweneja
-💻 Skills and Technologies
-
-Programming Languages
-
-Python
-JavaScript
-TypeScript
-C#
-
-Frontend Development
-
-HTML
-CSS
-React
-Next.js
-
-Backend Development and Databases
-
-Node.js
-Express.js
-MongoDB
-SQL
-REST APIs
-
-Tools
-
-Git
-GitHub
-Swagger
-Microsoft Word
-🚀 Featured Projects
-1. StudySync API
-
-Student Academic Management System API built with Node.js, Express, MongoDB, JavaScript, and Swagger.
-
-View Repository
-
-2. Library API
-
-REST API for managing books and library members.
-
-View Repository
-
-3. Next.js Dashboard
-
-A dashboard application developed using TypeScript and Next.js.
-
-View Repository
-
-4. React Todo List
-
-A task management application built with React and JavaScript.
-
-View Repository
-
-5. CSE 212 Projects
-
-Programming coursework focused on data structures using C#.
-
-View Repository
-
-📊 GitHub Statistics
-
-!GitHub Stats
-
-!Top Languages
-
-🌍 Languages
-French
-English
-Swahili
-Lingala
-📫 Connect With Me
-LinkedIn: Eusebio Ngoy Banza
-GitHub: @eusebiongoy
-Email: banzaeusebio2@gmail.com
-🎯 My Goal
-
-My goal is to become a skilled software developer, build useful applications, contribute to meaningful projects, and continue growing in the technology industry.
-
-Always learning, building, and improving! 🚀
+Visit my LinkedIn | Visit my GitHub
